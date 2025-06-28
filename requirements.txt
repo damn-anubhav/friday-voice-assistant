@@ -1,0 +1,10 @@
+pyttsx3
+SpeechRecognition
+pyaudio
+pyautogui
+wikipedia
+pywhatkit
+plyer
+mtranslate
+langdetect
+google-generativeai
